@@ -1,3 +1,4 @@
 # myproj
-personal and solo project \n
+personal and solo project
+
 Full Stack
